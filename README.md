@@ -1,16 +1,15 @@
-### Hi there 👋
+### Sách Nói Phật Pháp
 
-<!--
-**sachnoiphatphap/sachnoiphatphap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thư Viện Sách Nói Phật Pháp được tạo dựng với mục đích giúp mọi người tiếp cận được Phật Pháp qua những bài pháp âm, bài pháp được các sư giảng lưu lại để các Phật tử tu tập tinh tấn.
 
-Here are some ideas to get you started:
+- Địa chỉ: Hà Nội
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SĐT: 0869377555
+
+- Website: https://sachnoiphatphap.com
+
+https://twitter.com/sachnoiphatphap
+
+https://www.pinterest.com/sachnoiphatphap/
+
+https://www.linkedin.com/in/sachnoiphatphap/
